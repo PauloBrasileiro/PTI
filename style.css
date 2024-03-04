@@ -1,0 +1,62 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+
+  }
+  
+  header {
+    background-color: #333;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+
+  }
+  
+  nav ul {
+    list-style-type: none;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    margin-left: 10px;
+  }
+  
+  section {
+    padding: 10px;
+    margin-left: 10px
+    
+  }
+  #treinamentos{
+  
+        margin-bottom: 250px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  #image{
+    display: flex;
+        align-items:center;
+    }
+    #texto {
+        margin-left: 20px;
+    }
+    #foto{
+        display: flex;
+        align-items: center;
+    }
